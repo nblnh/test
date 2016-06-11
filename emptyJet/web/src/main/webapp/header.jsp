@@ -5,9 +5,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Private empty jet</title>
-<link rel="stylesheet" media="screen" type="text/css" title="Design" href="css/design.css" />
-<%@ page
-	import="java.util.* , org.nn.sc.empty.jet.*"%>
+<link rel="stylesheet" media="screen" type="text/css" title="Design"
+	href="css/design.css" />
+<%@ page import="java.util.* , org.nn.sc.empty.jet.*"%>
 <%@ taglib prefix="s" uri="/struts-tags"%>
 </head>
-

@@ -35,7 +35,7 @@
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.nn.sc.private.jet.bean</groupId>
 			<artifactId>bean</artifactId>

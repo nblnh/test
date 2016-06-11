@@ -17,7 +17,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>
-		
+
 		<!-- MYSQL CONNECTOR -->
 		<dependency>
 			<groupId>mysql</groupId>
@@ -38,7 +38,7 @@
 			<artifactId>hibernate-entitymanager</artifactId>
 			<version>5.0.7.Final</version>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.nn.sc.private.jet.bean</groupId>
 			<artifactId>bean</artifactId>
@@ -54,6 +54,6 @@
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
-				
+
 	</dependencies>
 </project>

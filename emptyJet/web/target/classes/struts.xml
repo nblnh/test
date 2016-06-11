@@ -7,13 +7,13 @@
 	<constant name="struts.custom.i18n.resources" value="ressources" />
 
 	<package name="default" extends="struts-default">
-		
+
 		<default-action-ref name="flights" />
-		
+
 		<action name="flights" class="org.nn.sc.empty.jet.presentation.Flights">
 			<result name="success">/index.jsp</result>
 		</action>
-		
+
 	</package>
 
 </struts>
